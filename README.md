@@ -23,7 +23,7 @@ requirements.txt: List of necessary Python libraries.
 
 🛠️ Installation & Setup
 Clone the repository:
-git clone https://github.com/Pallavigalgale/Cricket-Ball-Tracking-Assessment.git
+git clone https://github.com/Pallavigalgale/cricket_ball_trajectory/tree/main
 Install dependencies:
 
 pip install -r requirements.txt
